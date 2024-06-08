@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Perfume Palette</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string> -->
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+    <string name="button_description">Bottle Shape Button</string>
+
+    <string-array name="quantity_string_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+
+    //floral_prices
+    <string name="fl_price_30ml">88</string>
+    <string name="fl_price_50ml">164</string>
+    <string name="fl_price_70ml">188</string>
+    <string name="fl_price_80ml">269</string>
+
+    <string name="aq_price_30ml">99</string>
+    <string name="aq_price_50ml">118</string>
+    <string name="aq_price_70ml">223</string>
+    <string name="aq_price_80ml">289</string>
+
+    <string name="fre_price_30ml">80</string>
+    <string name="fre_price_50ml">134</string>
+    <string name="fre_price_70ml">202</string>
+    <string name="fre_price_80ml">259</string>
+
+    <string name="aro_price_30ml">89</string>
+    <string name="aro_price_50ml">106</string>
+    <string name="aro_price_70ml">201</string>
+    <string name="aro_price_80ml">278</string>
+
+    <string name="cit_price_30ml">50</string>
+    <string name="cit_price_50ml">149</string>
+    <string name="cit_price_70ml">220</string>
+    <string name="cit_price_80ml">299</string>
+
+    <string name="fru_price_30ml">70</string>
+    <string name="fru_price_50ml">154</string>
+    <string name="fru_price_70ml">278</string>
+    <string name="fru_price_80ml">300</string>
+
+    <string name="descriptionPerfume">Bright, herby, citrusy, clean, oceanic</string>
+
+
+</resources>
